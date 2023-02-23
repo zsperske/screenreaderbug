@@ -6,4 +6,4 @@ Google documentation (https://developer.android.com/guide/topics/ui/accessibilit
 
 Pull down this repo and run the app on an emulator or device with Talkback enabled.
 
-Try clicking in the colored areas outside of the text views and the screen reader will not read the whole content.
+Try clicking in the colored areas outside of the text views and the screen reader will do nothing.
